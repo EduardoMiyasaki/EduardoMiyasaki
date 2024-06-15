@@ -15,7 +15,7 @@ Projeto Racismo nos esportes - https://github.com/EduardoMiyasakii/ProjetoIndivi
 Esse é meu projeto individual com o tema racismo nos esportes , foram utilizados as seguintes ferramentas:Git Hub, trello
 e foi utilizado JavaScript
 
-Email: eduardo.miyasaki22@gmail.com
+Email: eduardomiyasaki22@gmail.com
 
 LinkedIn: linkedin.com/in/eduardo-miyasaki1
 
