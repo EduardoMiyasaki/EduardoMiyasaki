@@ -3,11 +3,12 @@ Olá! Eu sou o Eduardo Kendi de Sousa Miyasaki, tenho 18 anos e atualmente, esto
 
 Linguagens de Programação: Java, JavaScript, C++                                         
 
-
-
 Ferramentas e Tecnologias: Git, SQL, HTML/CSS
-Frameworks: Node.js
+
+Frameworks: Node.
+
 Metodologias: Agile, Scrum
+
 Projetos
 
 Projeto Racismo nos esportes - https://github.com/EduardoMiyasakii/ProjetoIndividual
