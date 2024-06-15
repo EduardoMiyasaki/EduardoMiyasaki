@@ -19,7 +19,7 @@ Email: eduardomiyasaki22@gmail.com
 
 LinkedIn: linkedin.com/in/eduardo-miyasaki1
 
-[TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMiyasaki&layout=compact&theme=dracula)
+[TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomiyasaki&layout=compact&theme=dracula)
 
 <!--
 **EduardoMiyasaki/EduardoMiyasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
