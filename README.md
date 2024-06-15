@@ -19,7 +19,6 @@ Email: eduardo.miyasaki22@gmail.com
 
 LinkedIn: linkedin.com/in/eduardo-miyasaki1
 
-GitHub: github.com/EduardoMiyasaki
 <!--
 **EduardoMiyasaki/EduardoMiyasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
