@@ -16,7 +16,9 @@ Esse é meu projeto individual com o tema racismo nos esportes , foram utilizado
 e foi utilizado JavaScript
 
 Email: eduardo.miyasaki22@gmail.com
+
 LinkedIn: linkedin.com/in/eduardo-miyasaki1
+
 GitHub: github.com/EduardoMiyasaki
 <!--
 **EduardoMiyasaki/EduardoMiyasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
