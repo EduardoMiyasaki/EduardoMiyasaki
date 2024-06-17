@@ -1,11 +1,9 @@
 ## Hi there 👋
 Olá! Eu sou o Eduardo Kendi de Sousa Miyasaki, tenho 18 anos e atualmente, estou cursando Sistemas de Informação na São Paulo Tech School.
 
-Linguagens de Programação: Java, JavaScript, C++                                         
+Linguagens de Programação: Java, JavaScript                                      
 
 Ferramentas e Tecnologias: Git, SQL, HTML/CSS
-
-Frameworks: Node.
 
 Metodologias: Agile, Scrum
 
