@@ -18,10 +18,8 @@ Email: eduardomiyasaki22@gmail.com
 LinkedIn: linkedin.com/in/eduardo-miyasaki1
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=EduardoMiyasaki&theme=algolia&show_icons=true)](https://github.com/EduardoMiyasaki)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaAraujoOliveira&countprivate=true&layout=compact&show_icons=true&theme=algolia&show">
 <!--[![Eduardo Miyasaki GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=EduardoMiyasaki&hide=html,scss,css,javascript&theme=algolia&show_icons=true)](https://github.com/EduardoMiyasaki) -->
-  <div>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaAraujoOliveira&countprivate=true&layout=compact&show_icons=true&theme=material-palenight">
-  </div>
 
 <!--
 **EduardoMiyasaki/EduardoMiyasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
