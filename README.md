@@ -19,12 +19,7 @@ LinkedIn: linkedin.com/in/eduardo-miyasaki1
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=EduardoMiyasaki&theme=algolia&show_icons=true)](https://github.com/EduardoMiyasaki)
 [![Eduardo Miyasaki GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=EduardoMiyasaki&hide=html,scss,css,javascript&theme=algolia&show_icons=true)](https://github.com/EduardoMiyasaki) 
-
-
-<div  align="center">
-   <img height="150em" src='https://github-readme-stats.vercel.app/api?username=EduardoMiyasaki&show&countprivate=true&icons=true&theme=material-palenight'>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMiyasaki&countprivate=true&layout=compact&show_icons=true&theme=material-palenight">
-  </div>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMiyasaki&countprivate=true&layout=compact&show_icons=true&theme=algolia&show_icons=true>
 
 
 <!--
