@@ -21,7 +21,7 @@ LinkedIn: linkedin.com/in/eduardo-miyasaki1
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMiyasaki&countprivate=true&layout=compact&show_icons=true&theme=algolia&show">
 <!--[![Eduardo Miyasaki GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=EduardoMiyasaki&hide=html,scss,css,javascript&theme=algolia&show_icons=true)](https://github.com/EduardoMiyasaki) -->
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Kotlin
 <!--
 **EduardoMiyasaki/EduardoMiyasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
