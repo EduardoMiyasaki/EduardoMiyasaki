@@ -1,16 +1,16 @@
 ## Hi there 👋
 Olá! Eu sou o Eduardo Kendi de Sousa Miyasaki, tenho 18 anos e atualmente, estou cursando Sistemas de Informação na São Paulo Tech School.
 
-Linguagens de Programação: Java, JavaScript                                      
+Linguagens de Programação: Java, JavaScript, Kotlin , Python , R                                    
 
-Ferramentas e Tecnologias: Git, SQL, HTML/CSS
+Ferramentas e Tecnologias: Git, SQL, HTML/CSS , Docker
 
 Metodologias: Agile, Scrum
 
 Projetos
 
 Projeto Racismo nos esportes - https://github.com/EduardoMiyasakii/ProjetoIndividual
-Esse é meu projeto individual com o tema racismo nos esportes , foram utilizados as seguintes ferramentas:Git Hub, trello
+Esse é meu projeto individual com o tema racismo nos esportes , foram utilizados as seguintes ferramentas: Git Hub, trello
 e foi utilizado JavaScript
 
 Email: eduardomiyasaki22@gmail.com
